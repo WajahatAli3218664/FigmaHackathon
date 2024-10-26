@@ -128,7 +128,7 @@ export default function Products(){
                     </div>
                     <Image src={ipad} alt="" className="mt-2"/>
                     <div className=" w-[236px] h-[160px] justify-items-center px-5 my-3">
-                        <p className="text-[16px] font-medium text-center text-[#000000]">Apple iPad 9 10.2" 64GB Wi-Fi Silver (MK2L3) 2021</p>
+                        <p className="text-[16px] font-medium text-center text-[#000000]">Apple iPad 9 10.2 64GB Wi-Fi Silver (MK2L3) 2021</p>
                         <h1 className="text-[24px] tracking-[3%] font-semibold">$398</h1>
                         <button className="bg-black text-white h-[48px] w-[166px] rounded-lg mt-4">Buy Now</button>
                     </div>

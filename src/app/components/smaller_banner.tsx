@@ -20,7 +20,7 @@ export default function SmallerBanner(){
                         <Image src={Hero} alt="" className="h-[280px]"/>
                     <div className="flex flex-col w-[220px] py-[35px] px-[35px]  ml-[30px] ">
                         <h1 className="text-[29px] leading-2 w-[160px]">Apple AirPods <br/><b>Max</b></h1>
-                        <p className="w-[160px] font-medium leading-6 text-[14px] text-[#909090]">Computational audio. Listen, it's powerful</p>
+                        <p className="w-[160px] font-medium leading-6 text-[14px] text-[#909090]">Computational audio. Listen, it is powerful</p>
                     </div>
 
                     <div className="flex h-[280px] w-[400px] bg-[#353535]">
