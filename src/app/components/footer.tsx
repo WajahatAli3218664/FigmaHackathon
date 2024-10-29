@@ -43,9 +43,9 @@ export default function Footer(){
       </div>
       <div className="flex gap-6">
       <Link href={"https://twitter.com/login"}><CiTwitter className="text-white" size={30}/></Link>
-      <Link href={"https://facebook.com"}><FaFacebook className="text-white" size={30}/></Link>
-      <Link href={"https://www.linkedin.com/in/mahnoor-shaikh/"}><CiLinkedin className="text-white" size={30}/></Link>
-      <Link href={"https://github.com/MAHNOORSHK?tab=repositories"}><FaGithub className="text-white" size={30}/></Link>
+      <Link href={"https://facebook.com/Wajii10"}><FaFacebook className="text-white" size={30}/></Link>
+      <Link href={"https://www.linkedin.com/in/wajahat-ali-3189862b4"}><CiLinkedin className="text-white" size={30}/></Link>
+      <Link href={"https://github.com/WajahatAli3218664"}><FaGithub className="text-white" size={30}/></Link>
       </div>
     </div>
         </>       
